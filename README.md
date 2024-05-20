@@ -1,4 +1,4 @@
-# Anallyzer IA 🤖
+# Anallyzer AI 🤖
 Bem-vindo ao repositório do Anallyzer, um projeto focado em análise de e-mail marketing na área de ecommerce. 
 
 <h1 id="autores">🤝 Integrantes</h2>

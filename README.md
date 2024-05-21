@@ -1,5 +1,6 @@
 # Anallyzer AI 🤖
-Bem-vindo ao repositório do Anallyzer, um projeto focado em análise de e-mail marketing na área de ecommerce. 
+
+Bem-vindo ao repositório do Anallyzer, um projeto focado em análise de e-mail marketing na área de ecommerce.
 
 <h1 id="autores">🤝 Integrantes</h2>
 <table>
@@ -48,4 +49,7 @@ Bem-vindo ao repositório do Anallyzer, um projeto focado em análise de e-mail 
 </table>
 
 ## 🔗 Link do pitch:
+
 - https://youtu.be/73gU17oIHiY
+
+## 🔗 Link do vídeo da IA na versão beta

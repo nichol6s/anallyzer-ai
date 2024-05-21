@@ -53,3 +53,9 @@ Bem-vindo ao repositório do Anallyzer, um projeto focado em análise de e-mail 
 - https://youtu.be/73gU17oIHiY
 
 ## 🔗 Link do vídeo da IA na versão beta
+
+- 
+
+## 📚 Documentação 
+A documentação está dentro do arquivo notebook: anallyzer-ai.ipynb
+

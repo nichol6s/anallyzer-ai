@@ -57,5 +57,5 @@ Bem-vindo ao repositório do Anallyzer, um projeto focado em análise de e-mail 
 - https://youtu.be/Hftc-LIsbas
 
 ## 📚 Documentação 
-A documentação está dentro do arquivo notebook: anallyzer-ai.ipynb
+A documentação está presente no arquivo 3 Sprint IoT.pdf
 

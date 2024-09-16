@@ -52,10 +52,10 @@ Bem-vindo ao repositório do Anallyzer, um projeto focado em análise de e-mail 
 
 - https://youtu.be/73gU17oIHiY
 
-## 🔗 Link do vídeo da IA na versão beta
+## 🔗 Link do vídeo da IA na versão funcional
 
-- https://youtu.be/Hftc-LIsbas
+- https://youtu.be/M_N6MQADyug
 
 ## 📚 Documentação 
-A documentação está presente no arquivo 3 Sprint IoT.pdf
+A documentação está presente no arquivo: 3 Sprint iot.pdf
 

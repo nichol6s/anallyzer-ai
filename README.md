@@ -59,7 +59,7 @@ Bem-vindo ao repositório do Anallyzer, um projeto focado em análise de e-mail 
 ## 📚 Documentação 
 A documentação está presente no arquivo: 4 Sprint iot.pdf
 
-## Como rodar
+## 🚀 Como rodar
 Dentro da pasta "documentação" temos o arquivo .ipynb onde está o código fonte do modelo
 Lá também temos o servidor flask pra rodar e testar a IA na prática. Certifique-se de colocar os arquivos model e scaler.joblib na mesma pasta que o servidor.
 
